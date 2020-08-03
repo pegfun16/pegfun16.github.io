@@ -5,3 +5,23 @@ body{
 	color: black;
 	text-align: center;
 }
+header{
+	text-align: left;
+}
+a:link{
+	color: black;
+}
+a:visited{
+	color: gray;
+}
+a:hover{
+	color: darkgreen;
+}
+a:active{
+	color: white;
+}
+hr{
+	border-color: black;
+	background-color: black;
+	color: black;
+}
