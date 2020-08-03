@@ -4,21 +4,14 @@ body{
 	background-color: green;
 	color: black;
 	text-align: center;
+	font-size: 2em;
 }
 header{
 	text-align: left;
 }
-a:link{
-	color: black;
-}
-a:visited{
-	color: gray;
-}
-a:hover{
-	color: darkgreen;
-}
-a:active{
-	color: white;
+a{
+	color: Black;
+	text-decoration: none;
 }
 hr{
 	border-color: black;
