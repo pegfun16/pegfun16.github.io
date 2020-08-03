@@ -6,8 +6,15 @@ body{
 	text-align: center;
 	font-size: 2em;
 }
-header{
+header > .left{
 	text-align: left;
+	float: left;
+	vertical-align: top;
+}
+header > .right{
+	text-align: right;
+	float: right;
+	vertical-align: top;
 }
 a{
 	color: Black;
