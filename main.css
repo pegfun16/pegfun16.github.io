@@ -16,7 +16,7 @@ header > .right{
 	float: right;
 	vertical-align: top;
 }
-a{
+header > a{
 	color: Black;
 	text-decoration: none;
 }
@@ -24,4 +24,7 @@ hr{
 	border-color: black;
 	background-color: black;
 	color: black;
+}
+footer{
+	font-size: .5em;
 }
