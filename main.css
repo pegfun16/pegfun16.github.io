@@ -31,3 +31,6 @@ footer{
 iframe{
 	background-color: white;
 }
+.hidden{
+	visibility: hidden;
+}
