@@ -16,7 +16,7 @@ header > .right{
 	float: right;
 	vertical-align: top;
 }
-header > a{
+a.normal{
 	color: Black;
 	text-decoration: none;
 }
