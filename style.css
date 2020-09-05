@@ -27,10 +27,6 @@ hr{
 }
 footer{
 	font-size: .5em;
-	position: fixed;
-	bottom: 0;
-	width: 100%;
-	background-color: inherit;
 }
 iframe{
 	background-color: white;
