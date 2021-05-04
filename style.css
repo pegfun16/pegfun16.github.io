@@ -31,6 +31,7 @@ a.normal{
 }
 hr{
 	border-color: black;
+    border-style: double;
 	background-color: black;
 	color: black;
 }
