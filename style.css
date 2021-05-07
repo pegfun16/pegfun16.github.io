@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Lexend+Deca&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@500&display=swap');
 ::-webkit-scrollbar{
 	width: 10px;
 }
@@ -6,7 +6,7 @@
 	background: black;
 }
 body{
-	font-family: "Lexend Deca", sans-serif;
+	font-family: "Lexend", sans-serif;
 	background-color: #1CC534;
 	color: black;
 	text-align: center;
